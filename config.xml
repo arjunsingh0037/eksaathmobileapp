@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>EKsatah </name>
+    <name>Eksath </name>
 
     <description>
-        EKsatah 
+        Eksath 
     </description>
 
     <author href="http://lmsofindia.com" email="mihir@lmsofindia.com">
-       EKsatah team
+       Eksath team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
