@@ -10542,7 +10542,8 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00;
+ /* background-color: #ff5c00;*/
+  background-color: #f08080;
   /* Change this to add a bg image or change color */
   background: -webkit-radial-gradient(#ff7600, #ff5c00);
   background: radial-gradient(#ff7600, #ff5c00);
@@ -10989,7 +10990,7 @@ button.item.item-button-right.item-3-button-right,
   bottom: 0;
   left: 0;
   right: 0; }
-
+/*change by me.....*/
 .mm-loading-container {
   width: 100%;
   text-align: center;
