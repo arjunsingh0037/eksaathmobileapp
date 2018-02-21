@@ -13413,7 +13413,8 @@ ion-side-menu li.item.item-divider, ion-side-menu .mm-grades-table li.item-divid
       margin: 0;
       max-width: 50%;
       width: 50%;
-      display: flex; }
+      display: flex;
+      background-color: #f08080!important; }
       .mm-course-grid mm-course-list-progress .card {
         width: 100%;
         align-items: stretch; }
