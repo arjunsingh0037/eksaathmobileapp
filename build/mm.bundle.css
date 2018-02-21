@@ -7085,7 +7085,8 @@ button.item.item-button-right,
   padding-top: 1px;
   padding-bottom: 1px;
   padding-left: 0;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  background-color: #62d962!important; }
 
 .list:last-child {
   margin-bottom: 0px; }
@@ -12899,7 +12900,7 @@ mm-course-list-item
 .mm-site_mod_assign-submission div.item-icon-left.earlysubmission,
 .mm-site_mod_assign-submission
 mm-course-list-item div.item-icon-left.earlysubmission {
-  color: #3a3a3a; }
+  color: #ededca!important; }
 
 .mm-course-enrollment-img {
   max-width: 20px;
