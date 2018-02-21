@@ -4222,15 +4222,15 @@ a.subdued {
     background: none; }
 
 .bar-energized .button {
-  border-color: #f7a304;
-  background-color: #fbad1a;
+  border-color: #f08080;
+  background-color: #f08080;
   color: #fff; }
   .bar-energized .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-energized .button.active, .bar-energized .button.activated {
-    border-color: #f7a304;
-    background-color: #f7a304; }
+    border-color: #f08080;
+    background-color: #f08080; }
   .bar-energized .button.button-clear {
     border-color: transparent;
     background: none;
@@ -4243,14 +4243,14 @@ a.subdued {
 
 .bar-royal .button {
   border-color: #dd6c06;
-  background-color: #f98012;
+  background-color: #f08080;
   color: #fff; }
   .bar-royal .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-royal .button.active, .bar-royal .button.activated {
     border-color: #dd6c06;
-    background-color: #dd6c06; }
+    background-color: #f08080; }
   .bar-royal .button.button-clear {
     border-color: transparent;
     background: none;
@@ -9334,33 +9334,33 @@ progress {
         color: #fff; }
   .button.button-energized {
     border-color: #0064d2;
-    background-color: #fbad1a;
+    background-color: #f08080;
     color: #fff; }
     .button.button-energized:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-energized.active, .button.button-energized.activated {
       border-color: #0064d2;
-      background-color: #f7a304; }
+      background-color: #f08080; }
     .button.button-energized.button-clear {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #fbad1a; }
+      color: #f08080; }
     .button.button-energized.button-icon {
       border-color: transparent;
       background: none; }
     .button.button-energized.button-outline {
-      border-color: #fbad1a;
+      border-color: #f08080;
       background: transparent;
-      color: #fbad1a; }
+      color: #f08080; }
       .button.button-energized.button-outline.active, .button.button-energized.button-outline.activated {
-        background-color: #fbad1a;
+        background-color: #f08080;
         box-shadow: none;
         color: #fff; }
   .button.button-royal {
     border-color: #0064d2;
-    background-color: #f98012;
+    background-color: #f08080;
     color: #fff; }
     .button.button-royal:hover {
       color: #fff;
@@ -9372,16 +9372,16 @@ progress {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #f98012; }
+      color: #f08080; }
     .button.button-royal.button-icon {
       border-color: transparent;
       background: none; }
     .button.button-royal.button-outline {
-      border-color: #f98012;
+      border-color: #f08080;
       background: transparent;
-      color: #f98012; }
+      color: #f08080; }
       .button.button-royal.button-outline.active, .button.button-royal.button-outline.activated {
-        background-color: #f98012;
+        background-color: #f08080;
         box-shadow: none;
         color: #fff; }
   .button.button-dark {
@@ -10427,7 +10427,8 @@ a.button {
 .item-delete .button.icon,
 .item-delete .button.icon.active,
 .item-delete .button.icon.actived {
-  color: #cb3d4d; }
+  color: 
+  #cb3d4d; }
 
 .button.button-light, .button.button-stable, .button.button-calm, .button.button-balanced, .button.button-energized, .button.button-royal {
   border-color: #0064d2;
@@ -10582,7 +10583,7 @@ em {
  * Styles.
  */
 a.button {
-  line-height: 4px; }
+  line-height: 45px; }
 
 .mm-big {
   font-size: 115%; }
@@ -10596,21 +10597,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #f08080!important;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #f08080!important;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f98012; }
+      background-color: #f08080!important; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
@@ -10786,8 +10787,8 @@ p.item-text-wrap {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
     margin-top: -2px;
-    color: #f98012;
-    border: 0 solid #f98012;
+    color:  #f08080;
+    border: 0 solid #f08080;
     border-top-width: 2px; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
