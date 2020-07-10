@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.eksath"
+        id        = "com.moodle.examhooks"
         versionCode = "20211"
         version   = "3.4.1">
-    <name>Eksaath </name>
+    <name>examhooks </name>
 
     <description>
-        Eksaath 
+        Examhooks Learning App 
     </description>
 
-    <author href="http://lmsofindia.com" email="mihir@lmsofindia.com">
-       Eksaath team
+    <author href="http://examhooks.com" email="info@examhooks.com">
+       Examhooks Team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
